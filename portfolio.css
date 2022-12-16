@@ -1,0 +1,10 @@
+body{
+    background-color:bisque;
+}
+.align{
+  text-align: center;
+}
+.text{
+    text-align: center;
+    font-weight: 800;
+}
